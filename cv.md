@@ -1,12 +1,10 @@
 # Abdrakhmanov Rustam
 
----
-
 ## Contacts
 
-**email:** ruabdrakhmanov@gmail.com
-**telegram:** @zeroseo
-**phone:** +996 553 630 361
+- **email:** ruabdrakhmanov@gmail.com
+- **telegram:** @zeroseo
+- **phone:** +996 553 630 361
 
 ## About Me
 
