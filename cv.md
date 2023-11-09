@@ -56,8 +56,7 @@ function betterThanAverage(classPoints, yourPoints) {
   - JavaScript Basics ([PurpleSchool](https://learn.purpleschool.ru))
   - Ansible/Docker ([PurpleSchool](https://learn.purpleschool.ru))
 
-<img src="./images/Purple School - JS Basics - Rustam Abdrakhmanov.png" alt="JS Basics Cert" width="300"/>
-<img src="./images/Purple School - Ansible Docker - Rustam Abdrakhmanov.png" alt="JS Basics Cert" width="300"/>
+<img src="./images/Purple School - JS Basics - Rustam Abdrakhmanov.png" alt="JS Basics Cert" width="300"/> <img src="./images/Purple School - Ansible Docker - Rustam Abdrakhmanov.png" alt="JS Basics Cert" width="300"/>
 
 ## English Language
 
