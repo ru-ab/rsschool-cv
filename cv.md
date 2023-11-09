@@ -42,3 +42,20 @@ function betterThanAverage(classPoints, yourPoints) {
 	return count >= classPoints.length / 2
 }
 ```
+
+## Work Experience
+
+- Habit tracker https://ru-ab.github.io/habit-tracker (HTML, CSS, JavaScript)
+
+## Education
+
+- **University:**
+  - Tyumen State University, Institute of Mathematics of Natural
+    Sciences and Information Technologies
+- **Courses:**
+  - JavaScript Basics ([PurpleSchool](https://learn.purpleschool.ru))
+  - Ansible/Docker ([PurpleSchool](https://learn.purpleschool.ru))
+
+## English Language
+
+**A2** (I can read and translate technical documentation but don’t have enough speaking practice)
